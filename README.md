@@ -1,9 +1,9 @@
 Hi, please read the following text to better understand the maze program.
 
 
-===================================================
-SECTION 1: Maze structure
-===================================================
+
+# SECTION 1: Maze structure
+
 
 For making your own maze file, set up a .txt
 
@@ -35,13 +35,9 @@ __________________________
 As you can see, it can be very easy to set up a maze as it is very visually accessible to create one with 1s representing walls and 0s representing pathways.
 
 
-===================================================
-.
-.
-.
-===================================================
-SECTION 2: Installing pygame
-===================================================
+
+
+# SECTION 2: Installing pygame
 
 This program utilizes pygame for input and rendering purposes. 
 
@@ -53,13 +49,10 @@ ___________________________
 
 Make sure you have python3 installed. Otherwise the pip command is not going to work.
 
-===================================================
-.
-.
-.
-===================================================
-SECTION 3: Personilization
-===================================================
+
+
+
+# SECTION 3: Personilization
 
 Make sure to change the following files for better personification.
 
@@ -75,4 +68,3 @@ Replace wall.png with one of your choice
 ___________________________
 
 
-===================================================
