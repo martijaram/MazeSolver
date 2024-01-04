@@ -1,5 +1,6 @@
 Hi, please read the following text to better understand the maze program.
 
+Keep in mind: The game will initially ask you for the location of the file (maze.txt) and the number of maximum moves allowed (40 is recommended)
 
 
 # SECTION 1: Maze structure
