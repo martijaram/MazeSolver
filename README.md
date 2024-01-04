@@ -21,14 +21,14 @@ The program is going to assume your first 0 and last 0 are the start and end.
 ___________________________
 Here is an example of a maze file.txt:
 
-4
-6
-1 1 1 1
-1 0 1 1
-1 0 0 1
-1 0 1 1
-1 0 1 1
-1 1 1 1
+4 # Width of maze <br>
+6 # Height of maze <br>
+1 1 1 1 # First row is full of 1s <br> 
+1 0 1 1 # First and last column are all 1s <br> 
+1 0 0 1 <br>
+1 0 1 1 <br>
+1 0 1 1 <br>
+1 1 1 1 # Last row is full of 1s <br>
 
 __________________________
 
