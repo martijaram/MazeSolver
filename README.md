@@ -61,10 +61,33 @@ To change the character:
 
 Replace character.png with one of your choice
 ___________________________
-___________________________
+
 To change the walls:
 
 Replace wall.png with one of your choice
 ___________________________
+
+
+# Tasks
+- Implement the stack data structure using a linked list: DONE (see code)
+
+- Implement the stack data structure using a partially-filled array: DONE (see code)
+
+- Handle all the appropriate exception situations, such as a) undoing too many moves
+(cannot return past the start of the maze), and b) pushing onto a full stack (not enough
+bread crumbs to go forward!): DONE (Will see when playing the game)
+
+- Create three images: one that represents a straight corridor, one that represents a left turn,
+and one for a right turn. When the user chooses to go home, display on a window each of
+these according to the appropriate path. DONE (Game itself is visual)
+
+- Design an input file that describes some kind of simple maze. At any point in the maze,
+limit the user’s options (forward, right, left) according to what the maze allows. DONE (Read above)
+
+- In conjunction with the previous two, add some images: one for a dead end, one for a T-
+junction, one for an intersection, and one that represents the goal (such as finding a
+treasure). Set up the program to only show the choice ahead of the user according to the
+maze you have created. DONE (Game itself is visual with limited view of player)
+
 
 
